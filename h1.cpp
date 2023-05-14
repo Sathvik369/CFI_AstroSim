@@ -17,7 +17,7 @@ float Force(){
     cin>> R1y;
     cout<< "enter value of position of z-component of first point mass \n";
     cin>> R1z;
-    cout<< "enter value of position of x-component of secocout<< "enter value of position of x-component of first point mass \n";nd point mass \n";
+    cout<< "enter value of position of x-component of first point mass \n";;
     cin>> R2x;
     cout<< "enter value of position of y-component of second point mass \n";
     cin>> R2y;
